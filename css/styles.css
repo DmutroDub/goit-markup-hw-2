@@ -4,7 +4,7 @@
 body {
   font-family: "Roboto", sans-serif;
   background-color: #fff;
-  color: #2e2f42;
+  color: #434455;
 }
 
 ul,
@@ -29,7 +29,6 @@ button:focus {
 
 .header {
   background-color: #fff;
-  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
 }
 
 .nav-logo-header {
