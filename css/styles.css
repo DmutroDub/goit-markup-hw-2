@@ -22,7 +22,7 @@ button {
 
 button:hover,
 button:focus {
-  background-color: #404bbf;
+  background-color: #3b47c4;
 }
 
 /* #region header */
@@ -41,7 +41,7 @@ button:focus {
   color: #4d5ae5;
 }
 
-.logo-style {
+.logo-style-header {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -112,11 +112,12 @@ button:focus {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
+  background-color: #4d5ae5;
 }
 
 .hero-btn:hover,
 .hero-btn:focus {
-  background-color: #3b47c4;
+  background-color: #404bbf;
 }
 
 /* #endregion hero */
@@ -168,7 +169,9 @@ button:focus {
 
 .team-list {}
 
-.team-item {}
+.team-item {
+  background-color: #fff;
+}
 
 .team-subtitle {
   font-weight: 500;
@@ -228,6 +231,26 @@ button:focus {
 /* #region footer */
 .footer {
   background-color: #2e2f42;
+}
+
+.logo-footer {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+
+.logo-style-footer {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #f4f4fd;
 }
 
 .footer-text {
