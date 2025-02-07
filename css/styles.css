@@ -70,14 +70,15 @@ button:focus {
   color: #404bbf;
 }
 
-.header-contacts {}
+.header-contacts {
+  font-style: normal;
+}
 
 .header-contacts-list {}
 
 .header-contacts-item {}
 
 .header-contacts-link {
-  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
